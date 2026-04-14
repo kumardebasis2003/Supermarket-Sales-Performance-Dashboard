@@ -27,3 +27,5 @@ To analyze business performance and improve decision-making using data visualiza
 
 ## 🙌 Feedback
 Feel free to give feedback!
+![sales Data_page-0001](https://github.com/user-attachments/assets/23bba49a-d1b7-4f80-9389-8bc0882c31c4)
+
